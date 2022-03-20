@@ -1,0 +1,13 @@
+name: animelist_recommender
+title:
+username:
+account: tatolu818
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5580189
+bundleId: 5547998
+url: https://tatolu818.shinyapps.io/animelist_recommender/
+when: 1644119752.93955
+lastSyncTime: 1644119752.93955
+asMultiple: FALSE
+asStatic: FALSE
